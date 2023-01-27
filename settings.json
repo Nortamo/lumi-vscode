@@ -1,0 +1,8 @@
+{
+    "fortran.linter.extraArgs": [
+        "-fopenmp",
+        "-Wall",
+        "-Wno-unused-dummy-argument"
+    ],
+    "fortran.fortls.extraArgs": ["--source_dirs=/Repo/use_mpi_interface"]
+}
